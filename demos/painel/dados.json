@@ -1,0 +1,1259 @@
+{
+ "loja": "Loja Exemplo",
+ "moeda": "BRL",
+ "pedidos": [
+  {
+   "id": "P-0001",
+   "data": "2025-10-02",
+   "cliente": "Gabriela Torres",
+   "categoria": "Eletrônicos",
+   "valor": 470.78
+  },
+  {
+   "id": "P-0002",
+   "data": "2025-10-03",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Moda",
+   "valor": 389.93
+  },
+  {
+   "id": "P-0003",
+   "data": "2025-10-05",
+   "cliente": "Fábio Nunes",
+   "categoria": "Eletrônicos",
+   "valor": 510.2
+  },
+  {
+   "id": "P-0004",
+   "data": "2025-10-07",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Esporte",
+   "valor": 574.37
+  },
+  {
+   "id": "P-0005",
+   "data": "2025-10-10",
+   "cliente": "Fábio Nunes",
+   "categoria": "Esporte",
+   "valor": 203.17
+  },
+  {
+   "id": "P-0006",
+   "data": "2025-10-10",
+   "cliente": "Nelson Dias",
+   "categoria": "Moda",
+   "valor": 148.93
+  },
+  {
+   "id": "P-0007",
+   "data": "2025-10-13",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Beleza",
+   "valor": 99.27
+  },
+  {
+   "id": "P-0008",
+   "data": "2025-10-20",
+   "cliente": "Gabriela Torres",
+   "categoria": "Eletrônicos",
+   "valor": 246.1
+  },
+  {
+   "id": "P-0009",
+   "data": "2025-10-20",
+   "cliente": "Hugo Barros",
+   "categoria": "Esporte",
+   "valor": 458.07
+  },
+  {
+   "id": "P-0010",
+   "data": "2025-10-21",
+   "cliente": "Marina Costa",
+   "categoria": "Beleza",
+   "valor": 185.59
+  },
+  {
+   "id": "P-0011",
+   "data": "2025-10-22",
+   "cliente": "Tiago Moraes",
+   "categoria": "Casa",
+   "valor": 79.93
+  },
+  {
+   "id": "P-0012",
+   "data": "2025-10-25",
+   "cliente": "Quésia Melo",
+   "categoria": "Eletrônicos",
+   "valor": 1745.93
+  },
+  {
+   "id": "P-0013",
+   "data": "2025-11-06",
+   "cliente": "Hugo Barros",
+   "categoria": "Esporte",
+   "valor": 582.46
+  },
+  {
+   "id": "P-0014",
+   "data": "2025-11-14",
+   "cliente": "Bruno Lima",
+   "categoria": "Eletrônicos",
+   "valor": 469.38
+  },
+  {
+   "id": "P-0015",
+   "data": "2025-11-15",
+   "cliente": "Diego Rocha",
+   "categoria": "Beleza",
+   "valor": 243.19
+  },
+  {
+   "id": "P-0016",
+   "data": "2025-11-16",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Eletrônicos",
+   "valor": 965.67
+  },
+  {
+   "id": "P-0017",
+   "data": "2025-11-18",
+   "cliente": "Rafael Gomes",
+   "categoria": "Casa",
+   "valor": 666.76
+  },
+  {
+   "id": "P-0018",
+   "data": "2025-11-18",
+   "cliente": "Marina Costa",
+   "categoria": "Eletrônicos",
+   "valor": 1748.94
+  },
+  {
+   "id": "P-0019",
+   "data": "2025-11-19",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Beleza",
+   "valor": 83.81
+  },
+  {
+   "id": "P-0020",
+   "data": "2025-11-24",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Moda",
+   "valor": 47.43
+  },
+  {
+   "id": "P-0021",
+   "data": "2025-11-24",
+   "cliente": "Paulo Vieira",
+   "categoria": "Beleza",
+   "valor": 251.61
+  },
+  {
+   "id": "P-0022",
+   "data": "2025-11-24",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Eletrônicos",
+   "valor": 1724.26
+  },
+  {
+   "id": "P-0023",
+   "data": "2025-11-27",
+   "cliente": "Ana Souza",
+   "categoria": "Moda",
+   "valor": 215.29
+  },
+  {
+   "id": "P-0024",
+   "data": "2025-11-30",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Casa",
+   "valor": 590.02
+  },
+  {
+   "id": "P-0025",
+   "data": "2025-12-02",
+   "cliente": "Marina Costa",
+   "categoria": "Moda",
+   "valor": 89.73
+  },
+  {
+   "id": "P-0026",
+   "data": "2025-12-04",
+   "cliente": "Elisa Prado",
+   "categoria": "Esporte",
+   "valor": 161.86
+  },
+  {
+   "id": "P-0027",
+   "data": "2025-12-06",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Casa",
+   "valor": 164.28
+  },
+  {
+   "id": "P-0028",
+   "data": "2025-12-07",
+   "cliente": "Hugo Barros",
+   "categoria": "Casa",
+   "valor": 97.36
+  },
+  {
+   "id": "P-0029",
+   "data": "2025-12-07",
+   "cliente": "Quésia Melo",
+   "categoria": "Casa",
+   "valor": 644.36
+  },
+  {
+   "id": "P-0030",
+   "data": "2025-12-10",
+   "cliente": "Hugo Barros",
+   "categoria": "Esporte",
+   "valor": 462
+  },
+  {
+   "id": "P-0031",
+   "data": "2025-12-16",
+   "cliente": "Elisa Prado",
+   "categoria": "Casa",
+   "valor": 364.13
+  },
+  {
+   "id": "P-0032",
+   "data": "2025-12-19",
+   "cliente": "Tiago Moraes",
+   "categoria": "Eletrônicos",
+   "valor": 347.71
+  },
+  {
+   "id": "P-0033",
+   "data": "2025-12-23",
+   "cliente": "Tiago Moraes",
+   "categoria": "Eletrônicos",
+   "valor": 1500.31
+  },
+  {
+   "id": "P-0034",
+   "data": "2025-12-27",
+   "cliente": "Diego Rocha",
+   "categoria": "Eletrônicos",
+   "valor": 450.41
+  },
+  {
+   "id": "P-0035",
+   "data": "2025-12-27",
+   "cliente": "Bruno Lima",
+   "categoria": "Casa",
+   "valor": 639.34
+  },
+  {
+   "id": "P-0036",
+   "data": "2025-12-30",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Casa",
+   "valor": 85.56
+  },
+  {
+   "id": "P-0037",
+   "data": "2025-12-31",
+   "cliente": "Hugo Barros",
+   "categoria": "Moda",
+   "valor": 417.1
+  },
+  {
+   "id": "P-0038",
+   "data": "2026-01-04",
+   "cliente": "João Pereira",
+   "categoria": "Eletrônicos",
+   "valor": 906.4
+  },
+  {
+   "id": "P-0039",
+   "data": "2026-01-05",
+   "cliente": "Fábio Nunes",
+   "categoria": "Eletrônicos",
+   "valor": 534.04
+  },
+  {
+   "id": "P-0040",
+   "data": "2026-01-06",
+   "cliente": "Gabriela Torres",
+   "categoria": "Esporte",
+   "valor": 430.76
+  },
+  {
+   "id": "P-0041",
+   "data": "2026-01-11",
+   "cliente": "Rafael Gomes",
+   "categoria": "Eletrônicos",
+   "valor": 533.63
+  },
+  {
+   "id": "P-0042",
+   "data": "2026-01-11",
+   "cliente": "Olívia Ramos",
+   "categoria": "Beleza",
+   "valor": 233.85
+  },
+  {
+   "id": "P-0043",
+   "data": "2026-01-13",
+   "cliente": "Hugo Barros",
+   "categoria": "Eletrônicos",
+   "valor": 648.63
+  },
+  {
+   "id": "P-0044",
+   "data": "2026-01-14",
+   "cliente": "Gabriela Torres",
+   "categoria": "Beleza",
+   "valor": 159
+  },
+  {
+   "id": "P-0045",
+   "data": "2026-01-14",
+   "cliente": "Isabela Cruz",
+   "categoria": "Beleza",
+   "valor": 142.86
+  },
+  {
+   "id": "P-0046",
+   "data": "2026-01-16",
+   "cliente": "Paulo Vieira",
+   "categoria": "Moda",
+   "valor": 338.91
+  },
+  {
+   "id": "P-0047",
+   "data": "2026-01-19",
+   "cliente": "Carla Mendes",
+   "categoria": "Eletrônicos",
+   "valor": 1757.18
+  },
+  {
+   "id": "P-0048",
+   "data": "2026-01-21",
+   "cliente": "Carla Mendes",
+   "categoria": "Eletrônicos",
+   "valor": 734.37
+  },
+  {
+   "id": "P-0049",
+   "data": "2026-01-21",
+   "cliente": "Gabriela Torres",
+   "categoria": "Eletrônicos",
+   "valor": 200.78
+  },
+  {
+   "id": "P-0050",
+   "data": "2026-01-24",
+   "cliente": "Isabela Cruz",
+   "categoria": "Eletrônicos",
+   "valor": 1276.28
+  },
+  {
+   "id": "P-0051",
+   "data": "2026-01-28",
+   "cliente": "Bruno Lima",
+   "categoria": "Eletrônicos",
+   "valor": 1135.02
+  },
+  {
+   "id": "P-0052",
+   "data": "2026-02-03",
+   "cliente": "Olívia Ramos",
+   "categoria": "Esporte",
+   "valor": 223.14
+  },
+  {
+   "id": "P-0053",
+   "data": "2026-02-04",
+   "cliente": "Olívia Ramos",
+   "categoria": "Esporte",
+   "valor": 120.64
+  },
+  {
+   "id": "P-0054",
+   "data": "2026-02-10",
+   "cliente": "Carla Mendes",
+   "categoria": "Esporte",
+   "valor": 327.13
+  },
+  {
+   "id": "P-0055",
+   "data": "2026-02-12",
+   "cliente": "Karina Alves",
+   "categoria": "Beleza",
+   "valor": 146.57
+  },
+  {
+   "id": "P-0056",
+   "data": "2026-02-12",
+   "cliente": "Olívia Ramos",
+   "categoria": "Moda",
+   "valor": 263.74
+  },
+  {
+   "id": "P-0057",
+   "data": "2026-02-13",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 120.2
+  },
+  {
+   "id": "P-0058",
+   "data": "2026-02-14",
+   "cliente": "Ana Souza",
+   "categoria": "Esporte",
+   "valor": 535.79
+  },
+  {
+   "id": "P-0059",
+   "data": "2026-02-16",
+   "cliente": "Diego Rocha",
+   "categoria": "Beleza",
+   "valor": 156.02
+  },
+  {
+   "id": "P-0060",
+   "data": "2026-02-16",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Casa",
+   "valor": 657
+  },
+  {
+   "id": "P-0061",
+   "data": "2026-02-21",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Beleza",
+   "valor": 234.41
+  },
+  {
+   "id": "P-0062",
+   "data": "2026-02-23",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 89.92
+  },
+  {
+   "id": "P-0063",
+   "data": "2026-02-23",
+   "cliente": "Gabriela Torres",
+   "categoria": "Esporte",
+   "valor": 123.52
+  },
+  {
+   "id": "P-0064",
+   "data": "2026-02-24",
+   "cliente": "Quésia Melo",
+   "categoria": "Esporte",
+   "valor": 282.84
+  },
+  {
+   "id": "P-0065",
+   "data": "2026-03-02",
+   "cliente": "Tiago Moraes",
+   "categoria": "Casa",
+   "valor": 327.27
+  },
+  {
+   "id": "P-0066",
+   "data": "2026-03-05",
+   "cliente": "Karina Alves",
+   "categoria": "Beleza",
+   "valor": 235.53
+  },
+  {
+   "id": "P-0067",
+   "data": "2026-03-06",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Beleza",
+   "valor": 254.8
+  },
+  {
+   "id": "P-0068",
+   "data": "2026-03-08",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Eletrônicos",
+   "valor": 429.32
+  },
+  {
+   "id": "P-0069",
+   "data": "2026-03-16",
+   "cliente": "Isabela Cruz",
+   "categoria": "Casa",
+   "valor": 130.67
+  },
+  {
+   "id": "P-0070",
+   "data": "2026-03-16",
+   "cliente": "Carla Mendes",
+   "categoria": "Eletrônicos",
+   "valor": 1073.82
+  },
+  {
+   "id": "P-0071",
+   "data": "2026-03-17",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 160.93
+  },
+  {
+   "id": "P-0072",
+   "data": "2026-03-17",
+   "cliente": "Diego Rocha",
+   "categoria": "Moda",
+   "valor": 109.06
+  },
+  {
+   "id": "P-0073",
+   "data": "2026-03-20",
+   "cliente": "Rafael Gomes",
+   "categoria": "Moda",
+   "valor": 231.01
+  },
+  {
+   "id": "P-0074",
+   "data": "2026-03-22",
+   "cliente": "Isabela Cruz",
+   "categoria": "Beleza",
+   "valor": 118.34
+  },
+  {
+   "id": "P-0075",
+   "data": "2026-03-24",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 94.5
+  },
+  {
+   "id": "P-0076",
+   "data": "2026-03-26",
+   "cliente": "Diego Rocha",
+   "categoria": "Casa",
+   "valor": 373.58
+  },
+  {
+   "id": "P-0077",
+   "data": "2026-03-27",
+   "cliente": "Bruno Lima",
+   "categoria": "Esporte",
+   "valor": 247.04
+  },
+  {
+   "id": "P-0078",
+   "data": "2026-03-30",
+   "cliente": "Karina Alves",
+   "categoria": "Eletrônicos",
+   "valor": 1054.85
+  },
+  {
+   "id": "P-0079",
+   "data": "2026-04-02",
+   "cliente": "Rafael Gomes",
+   "categoria": "Esporte",
+   "valor": 462.48
+  },
+  {
+   "id": "P-0080",
+   "data": "2026-04-03",
+   "cliente": "Olívia Ramos",
+   "categoria": "Esporte",
+   "valor": 510.27
+  },
+  {
+   "id": "P-0081",
+   "data": "2026-04-04",
+   "cliente": "Elisa Prado",
+   "categoria": "Eletrônicos",
+   "valor": 510.93
+  },
+  {
+   "id": "P-0082",
+   "data": "2026-04-06",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Eletrônicos",
+   "valor": 1285.14
+  },
+  {
+   "id": "P-0083",
+   "data": "2026-04-08",
+   "cliente": "Karina Alves",
+   "categoria": "Casa",
+   "valor": 442.87
+  },
+  {
+   "id": "P-0084",
+   "data": "2026-04-14",
+   "cliente": "Rafael Gomes",
+   "categoria": "Moda",
+   "valor": 60.59
+  },
+  {
+   "id": "P-0085",
+   "data": "2026-04-15",
+   "cliente": "Isabela Cruz",
+   "categoria": "Casa",
+   "valor": 318.4
+  },
+  {
+   "id": "P-0086",
+   "data": "2026-04-19",
+   "cliente": "Karina Alves",
+   "categoria": "Casa",
+   "valor": 214.41
+  },
+  {
+   "id": "P-0087",
+   "data": "2026-04-20",
+   "cliente": "Diego Rocha",
+   "categoria": "Moda",
+   "valor": 282.59
+  },
+  {
+   "id": "P-0088",
+   "data": "2026-04-20",
+   "cliente": "Tiago Moraes",
+   "categoria": "Moda",
+   "valor": 359.4
+  },
+  {
+   "id": "P-0089",
+   "data": "2026-04-22",
+   "cliente": "Tiago Moraes",
+   "categoria": "Moda",
+   "valor": 109.32
+  },
+  {
+   "id": "P-0090",
+   "data": "2026-04-24",
+   "cliente": "Marina Costa",
+   "categoria": "Beleza",
+   "valor": 108.16
+  },
+  {
+   "id": "P-0091",
+   "data": "2026-04-27",
+   "cliente": "Isabela Cruz",
+   "categoria": "Moda",
+   "valor": 46.72
+  },
+  {
+   "id": "P-0092",
+   "data": "2026-04-29",
+   "cliente": "Olívia Ramos",
+   "categoria": "Esporte",
+   "valor": 465.42
+  },
+  {
+   "id": "P-0093",
+   "data": "2026-05-02",
+   "cliente": "Bruno Lima",
+   "categoria": "Moda",
+   "valor": 330.73
+  },
+  {
+   "id": "P-0094",
+   "data": "2026-05-05",
+   "cliente": "Rafael Gomes",
+   "categoria": "Moda",
+   "valor": 136.33
+  },
+  {
+   "id": "P-0095",
+   "data": "2026-05-10",
+   "cliente": "Ana Souza",
+   "categoria": "Casa",
+   "valor": 293.29
+  },
+  {
+   "id": "P-0096",
+   "data": "2026-05-10",
+   "cliente": "Bruno Lima",
+   "categoria": "Eletrônicos",
+   "valor": 534.56
+  },
+  {
+   "id": "P-0097",
+   "data": "2026-05-11",
+   "cliente": "Carla Mendes",
+   "categoria": "Esporte",
+   "valor": 523.59
+  },
+  {
+   "id": "P-0098",
+   "data": "2026-05-11",
+   "cliente": "Bruno Lima",
+   "categoria": "Beleza",
+   "valor": 246.56
+  },
+  {
+   "id": "P-0099",
+   "data": "2026-05-12",
+   "cliente": "Diego Rocha",
+   "categoria": "Casa",
+   "valor": 96.28
+  },
+  {
+   "id": "P-0100",
+   "data": "2026-05-13",
+   "cliente": "Olívia Ramos",
+   "categoria": "Esporte",
+   "valor": 443.69
+  },
+  {
+   "id": "P-0101",
+   "data": "2026-05-13",
+   "cliente": "Fábio Nunes",
+   "categoria": "Eletrônicos",
+   "valor": 1798.32
+  },
+  {
+   "id": "P-0102",
+   "data": "2026-05-15",
+   "cliente": "Paulo Vieira",
+   "categoria": "Eletrônicos",
+   "valor": 931.11
+  },
+  {
+   "id": "P-0103",
+   "data": "2026-05-18",
+   "cliente": "João Pereira",
+   "categoria": "Beleza",
+   "valor": 164.24
+  },
+  {
+   "id": "P-0104",
+   "data": "2026-05-22",
+   "cliente": "Paulo Vieira",
+   "categoria": "Beleza",
+   "valor": 125.98
+  },
+  {
+   "id": "P-0105",
+   "data": "2026-05-24",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Moda",
+   "valor": 379.31
+  },
+  {
+   "id": "P-0106",
+   "data": "2026-05-27",
+   "cliente": "Marina Costa",
+   "categoria": "Casa",
+   "valor": 113.59
+  },
+  {
+   "id": "P-0107",
+   "data": "2026-05-31",
+   "cliente": "Karina Alves",
+   "categoria": "Beleza",
+   "valor": 120.29
+  },
+  {
+   "id": "P-0108",
+   "data": "2026-06-01",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Esporte",
+   "valor": 230.74
+  },
+  {
+   "id": "P-0109",
+   "data": "2026-06-01",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 80.46
+  },
+  {
+   "id": "P-0110",
+   "data": "2026-06-03",
+   "cliente": "Tiago Moraes",
+   "categoria": "Casa",
+   "valor": 645.87
+  },
+  {
+   "id": "P-0111",
+   "data": "2026-06-04",
+   "cliente": "Bruno Lima",
+   "categoria": "Casa",
+   "valor": 257.15
+  },
+  {
+   "id": "P-0112",
+   "data": "2026-06-07",
+   "cliente": "Fábio Nunes",
+   "categoria": "Beleza",
+   "valor": 223.96
+  },
+  {
+   "id": "P-0113",
+   "data": "2026-06-10",
+   "cliente": "João Pereira",
+   "categoria": "Casa",
+   "valor": 179.58
+  },
+  {
+   "id": "P-0114",
+   "data": "2026-06-12",
+   "cliente": "Isabela Cruz",
+   "categoria": "Moda",
+   "valor": 173.67
+  },
+  {
+   "id": "P-0115",
+   "data": "2026-06-12",
+   "cliente": "Quésia Melo",
+   "categoria": "Moda",
+   "valor": 132.09
+  },
+  {
+   "id": "P-0116",
+   "data": "2026-06-12",
+   "cliente": "Hugo Barros",
+   "categoria": "Moda",
+   "valor": 192.9
+  },
+  {
+   "id": "P-0117",
+   "data": "2026-06-13",
+   "cliente": "Olívia Ramos",
+   "categoria": "Eletrônicos",
+   "valor": 1193.76
+  },
+  {
+   "id": "P-0118",
+   "data": "2026-06-18",
+   "cliente": "Rafael Gomes",
+   "categoria": "Moda",
+   "valor": 393.51
+  },
+  {
+   "id": "P-0119",
+   "data": "2026-06-22",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Moda",
+   "valor": 97.02
+  },
+  {
+   "id": "P-0120",
+   "data": "2026-06-22",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Casa",
+   "valor": 109.93
+  },
+  {
+   "id": "P-0121",
+   "data": "2026-06-23",
+   "cliente": "Diego Rocha",
+   "categoria": "Eletrônicos",
+   "valor": 866.02
+  },
+  {
+   "id": "P-0122",
+   "data": "2026-06-26",
+   "cliente": "Carla Mendes",
+   "categoria": "Beleza",
+   "valor": 56.71
+  },
+  {
+   "id": "P-0123",
+   "data": "2026-06-26",
+   "cliente": "Isabela Cruz",
+   "categoria": "Beleza",
+   "valor": 199.88
+  },
+  {
+   "id": "P-0124",
+   "data": "2026-06-27",
+   "cliente": "Marina Costa",
+   "categoria": "Moda",
+   "valor": 348.51
+  },
+  {
+   "id": "P-0125",
+   "data": "2026-06-28",
+   "cliente": "Olívia Ramos",
+   "categoria": "Moda",
+   "valor": 325.49
+  },
+  {
+   "id": "P-0126",
+   "data": "2026-07-01",
+   "cliente": "Nelson Dias",
+   "categoria": "Beleza",
+   "valor": 116.98
+  },
+  {
+   "id": "P-0127",
+   "data": "2026-07-07",
+   "cliente": "Gabriela Torres",
+   "categoria": "Eletrônicos",
+   "valor": 835.16
+  },
+  {
+   "id": "P-0128",
+   "data": "2026-07-13",
+   "cliente": "Quésia Melo",
+   "categoria": "Eletrônicos",
+   "valor": 629.18
+  },
+  {
+   "id": "P-0129",
+   "data": "2026-07-14",
+   "cliente": "Isabela Cruz",
+   "categoria": "Moda",
+   "valor": 302.44
+  },
+  {
+   "id": "P-0130",
+   "data": "2026-07-14",
+   "cliente": "Fábio Nunes",
+   "categoria": "Beleza",
+   "valor": 252.31
+  },
+  {
+   "id": "P-0131",
+   "data": "2026-07-16",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Casa",
+   "valor": 385.71
+  },
+  {
+   "id": "P-0132",
+   "data": "2026-07-19",
+   "cliente": "Bruno Lima",
+   "categoria": "Esporte",
+   "valor": 271.36
+  },
+  {
+   "id": "P-0133",
+   "data": "2026-07-20",
+   "cliente": "Nelson Dias",
+   "categoria": "Casa",
+   "valor": 379.08
+  },
+  {
+   "id": "P-0134",
+   "data": "2026-07-20",
+   "cliente": "Tiago Moraes",
+   "categoria": "Beleza",
+   "valor": 235.92
+  },
+  {
+   "id": "P-0135",
+   "data": "2026-07-21",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Esporte",
+   "valor": 142.71
+  },
+  {
+   "id": "P-0136",
+   "data": "2026-07-22",
+   "cliente": "Elisa Prado",
+   "categoria": "Moda",
+   "valor": 402.32
+  },
+  {
+   "id": "P-0137",
+   "data": "2026-07-22",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Casa",
+   "valor": 239.03
+  },
+  {
+   "id": "P-0138",
+   "data": "2026-07-23",
+   "cliente": "Karina Alves",
+   "categoria": "Moda",
+   "valor": 393.13
+  },
+  {
+   "id": "P-0139",
+   "data": "2026-07-23",
+   "cliente": "Bruno Lima",
+   "categoria": "Casa",
+   "valor": 160.58
+  },
+  {
+   "id": "P-0140",
+   "data": "2026-07-24",
+   "cliente": "Tiago Moraes",
+   "categoria": "Moda",
+   "valor": 148.06
+  },
+  {
+   "id": "P-0141",
+   "data": "2026-07-25",
+   "cliente": "Tiago Moraes",
+   "categoria": "Beleza",
+   "valor": 61.68
+  },
+  {
+   "id": "P-0142",
+   "data": "2026-07-30",
+   "cliente": "Diego Rocha",
+   "categoria": "Esporte",
+   "valor": 240.99
+  },
+  {
+   "id": "P-0143",
+   "data": "2026-08-02",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Eletrônicos",
+   "valor": 548.17
+  },
+  {
+   "id": "P-0144",
+   "data": "2026-08-02",
+   "cliente": "Hugo Barros",
+   "categoria": "Esporte",
+   "valor": 152.99
+  },
+  {
+   "id": "P-0145",
+   "data": "2026-08-05",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Moda",
+   "valor": 131.69
+  },
+  {
+   "id": "P-0146",
+   "data": "2026-08-07",
+   "cliente": "Fábio Nunes",
+   "categoria": "Esporte",
+   "valor": 209.62
+  },
+  {
+   "id": "P-0147",
+   "data": "2026-08-07",
+   "cliente": "Tiago Moraes",
+   "categoria": "Esporte",
+   "valor": 91.78
+  },
+  {
+   "id": "P-0148",
+   "data": "2026-08-09",
+   "cliente": "Elisa Prado",
+   "categoria": "Esporte",
+   "valor": 199.13
+  },
+  {
+   "id": "P-0149",
+   "data": "2026-08-11",
+   "cliente": "Nelson Dias",
+   "categoria": "Casa",
+   "valor": 294.33
+  },
+  {
+   "id": "P-0150",
+   "data": "2026-08-12",
+   "cliente": "Carla Mendes",
+   "categoria": "Eletrônicos",
+   "valor": 305.08
+  },
+  {
+   "id": "P-0151",
+   "data": "2026-08-13",
+   "cliente": "Bruno Lima",
+   "categoria": "Beleza",
+   "valor": 61.21
+  },
+  {
+   "id": "P-0152",
+   "data": "2026-08-13",
+   "cliente": "Tiago Moraes",
+   "categoria": "Esporte",
+   "valor": 87.98
+  },
+  {
+   "id": "P-0153",
+   "data": "2026-08-21",
+   "cliente": "Isabela Cruz",
+   "categoria": "Moda",
+   "valor": 327.44
+  },
+  {
+   "id": "P-0154",
+   "data": "2026-08-22",
+   "cliente": "Nelson Dias",
+   "categoria": "Beleza",
+   "valor": 249.97
+  },
+  {
+   "id": "P-0155",
+   "data": "2026-08-24",
+   "cliente": "Elisa Prado",
+   "categoria": "Casa",
+   "valor": 449.07
+  },
+  {
+   "id": "P-0156",
+   "data": "2026-08-24",
+   "cliente": "Nelson Dias",
+   "categoria": "Eletrônicos",
+   "valor": 753.84
+  },
+  {
+   "id": "P-0157",
+   "data": "2026-08-27",
+   "cliente": "Marina Costa",
+   "categoria": "Esporte",
+   "valor": 587.02
+  },
+  {
+   "id": "P-0158",
+   "data": "2026-08-30",
+   "cliente": "Karina Alves",
+   "categoria": "Moda",
+   "valor": 299.96
+  },
+  {
+   "id": "P-0159",
+   "data": "2026-08-30",
+   "cliente": "Karina Alves",
+   "categoria": "Casa",
+   "valor": 592.35
+  },
+  {
+   "id": "P-0160",
+   "data": "2026-08-31",
+   "cliente": "Isabela Cruz",
+   "categoria": "Beleza",
+   "valor": 167.25
+  },
+  {
+   "id": "P-0161",
+   "data": "2026-09-01",
+   "cliente": "Hugo Barros",
+   "categoria": "Esporte",
+   "valor": 112.65
+  },
+  {
+   "id": "P-0162",
+   "data": "2026-09-05",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Esporte",
+   "valor": 209.88
+  },
+  {
+   "id": "P-0163",
+   "data": "2026-09-07",
+   "cliente": "Quésia Melo",
+   "categoria": "Eletrônicos",
+   "valor": 771.7
+  },
+  {
+   "id": "P-0164",
+   "data": "2026-09-08",
+   "cliente": "Diego Rocha",
+   "categoria": "Eletrônicos",
+   "valor": 1436.77
+  },
+  {
+   "id": "P-0165",
+   "data": "2026-09-08",
+   "cliente": "Diego Rocha",
+   "categoria": "Eletrônicos",
+   "valor": 233.37
+  },
+  {
+   "id": "P-0166",
+   "data": "2026-09-09",
+   "cliente": "Bruno Lima",
+   "categoria": "Moda",
+   "valor": 232.6
+  },
+  {
+   "id": "P-0167",
+   "data": "2026-09-10",
+   "cliente": "Hugo Barros",
+   "categoria": "Casa",
+   "valor": 250.32
+  },
+  {
+   "id": "P-0168",
+   "data": "2026-09-11",
+   "cliente": "Lucas Ferraz",
+   "categoria": "Eletrônicos",
+   "valor": 840.75
+  },
+  {
+   "id": "P-0169",
+   "data": "2026-09-14",
+   "cliente": "Paulo Vieira",
+   "categoria": "Eletrônicos",
+   "valor": 1228.76
+  },
+  {
+   "id": "P-0170",
+   "data": "2026-09-16",
+   "cliente": "Ana Souza",
+   "categoria": "Casa",
+   "valor": 517.55
+  },
+  {
+   "id": "P-0171",
+   "data": "2026-09-20",
+   "cliente": "Bruno Lima",
+   "categoria": "Eletrônicos",
+   "valor": 1724.68
+  },
+  {
+   "id": "P-0172",
+   "data": "2026-09-23",
+   "cliente": "Gabriela Torres",
+   "categoria": "Casa",
+   "valor": 541.78
+  },
+  {
+   "id": "P-0173",
+   "data": "2026-09-25",
+   "cliente": "Sandra Teixeira",
+   "categoria": "Moda",
+   "valor": 363.18
+  },
+  {
+   "id": "P-0174",
+   "data": "2026-09-26",
+   "cliente": "Hugo Barros",
+   "categoria": "Beleza",
+   "valor": 84.4
+  },
+  {
+   "id": "P-0175",
+   "data": "2026-09-27",
+   "cliente": "Isabela Cruz",
+   "categoria": "Beleza",
+   "valor": 189.9
+  },
+  {
+   "id": "P-0176",
+   "data": "2026-09-28",
+   "cliente": "Elisa Prado",
+   "categoria": "Casa",
+   "valor": 438.3
+  },
+  {
+   "id": "P-0177",
+   "data": "2026-09-29",
+   "cliente": "Diego Rocha",
+   "categoria": "Eletrônicos",
+   "valor": 1765.82
+  },
+  {
+   "id": "P-0178",
+   "data": "2026-09-29",
+   "cliente": "Quésia Melo",
+   "categoria": "Casa",
+   "valor": 396.81
+  },
+  {
+   "id": "P-0179",
+   "data": "2026-09-30",
+   "cliente": "Quésia Melo",
+   "categoria": "Beleza",
+   "valor": 239.54
+  }
+ ]
+}
