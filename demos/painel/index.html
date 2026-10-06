@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel de Vendas · Demonstração · Wallyson Marcos</title>
+  <meta name="description" content="Demonstração de dashboard de vendas com indicadores, gráficos e tabela filtrável. Empresa e dados fictícios.">
+  <link rel="icon" href="../../assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="faixa-demo" role="note">
+    <strong>Projeto de demonstração</strong> (empresa e dados fictícios)
+    <a href="../../">← Voltar ao portfólio</a>
+  </div>
+
+  <header class="topo">
+    <div>
+      <h1>Painel de Vendas</h1>
+      <p class="sub">Loja Exemplo · dados fictícios gerados para esta demonstração</p>
+    </div>
+    <div class="periodo" role="group" aria-label="Período analisado">
+      <span class="periodo-rotulo" id="periodo-rotulo">Período</span>
+      <button type="button" data-meses="3" aria-pressed="false">3 meses</button>
+      <button type="button" data-meses="6" aria-pressed="true">6 meses</button>
+      <button type="button" data-meses="12" aria-pressed="false">12 meses</button>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <p id="erro" role="alert" hidden></p>
+
+    <section class="kpis" aria-label="Indicadores do período" id="kpis">
+      <article class="kpi"><h2>Receita</h2><p class="valor" id="kpi-receita">—</p></article>
+      <article class="kpi"><h2>Pedidos</h2><p class="valor" id="kpi-pedidos">—</p></article>
+      <article class="kpi"><h2>Ticket médio</h2><p class="valor" id="kpi-ticket">—</p></article>
+      <article class="kpi"><h2>Receita vs. período anterior</h2><p class="valor" id="kpi-delta">—</p><p class="nota" id="kpi-delta-nota"></p></article>
+    </section>
+
+    <section class="graficos" aria-label="Gráficos">
+      <figure class="cartao">
+        <figcaption>Receita por mês</figcaption>
+        <div class="grafico-box"><canvas id="grafico-mes" role="img" aria-label="Gráfico de linha da receita por mês no período selecionado"></canvas></div>
+        <table class="sr-only" id="resumo-mes"><caption>Receita por mês</caption><thead><tr><th>Mês</th><th>Receita</th></tr></thead><tbody></tbody></table>
+      </figure>
+      <figure class="cartao">
+        <figcaption>Receita por categoria</figcaption>
+        <div class="grafico-box"><canvas id="grafico-cat" role="img" aria-label="Gráfico de barras da receita por categoria no período selecionado"></canvas></div>
+        <table class="sr-only" id="resumo-cat"><caption>Receita por categoria</caption><thead><tr><th>Categoria</th><th>Receita</th></tr></thead><tbody></tbody></table>
+      </figure>
+    </section>
+
+    <section class="cartao" aria-labelledby="titulo-pedidos">
+      <div class="tabela-topo">
+        <h2 id="titulo-pedidos">Pedidos</h2>
+        <label class="busca">Buscar pedido, cliente ou categoria
+          <input type="search" id="busca" autocomplete="off" placeholder="Ex.: Moda, Ana, P-0100">
+        </label>
+      </div>
+      <div class="tabela-wrap">
+        <table id="tabela">
+          <thead>
+            <tr>
+              <th scope="col" aria-sort="none"><button type="button" data-campo="id">Pedido</button></th>
+              <th scope="col" aria-sort="descending"><button type="button" data-campo="data">Data</button></th>
+              <th scope="col" aria-sort="none"><button type="button" data-campo="cliente">Cliente</button></th>
+              <th scope="col" aria-sort="none"><button type="button" data-campo="categoria">Categoria</button></th>
+              <th scope="col" aria-sort="none" class="num"><button type="button" data-campo="valor">Valor</button></th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="paginacao">
+        <button type="button" id="anterior">Anterior</button>
+        <span id="pagina-info" aria-live="polite"></span>
+        <button type="button" id="proxima">Próxima</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="rodape">Demonstração criada por Wallyson Marcos. Os nomes, valores e pedidos são fictícios.</footer>
+
+  <script>
+    // Aberto direto do arquivo (file://) o navegador bloqueia os módulos JavaScript: avisa em vez de mostrar um painel vazio.
+    if (location.protocol === 'file:') {
+      var aviso = document.getElementById('erro')
+      aviso.textContent = 'Esta demonstração precisa ser aberta pelo endereço publicado ou por um servidor local (node scripts/serve.mjs), e não direto do arquivo.'
+      aviso.hidden = false
+    }
+  </script>
+  <script src="vendor/chart.umd.min.js"></script>
+  <script type="module" src="script.js"></script>
+</body>
+</html>
